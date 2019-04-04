@@ -27,3 +27,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+Info [Configuration Reference](https://developerlife.com/2018/08/22/vue-vueitfy-webpack/)
